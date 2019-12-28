@@ -1,0 +1,89 @@
+[33mcommit 8d8b5e7f0d1c862c2c00631f7703ab5cc9c7dac3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: yangshuai <286319700@qq.com>
+Date:   Sat Dec 21 17:13:10 2019 +0800
+
+    统一处理请求token
+
+[33mcommit 9080f4e6d35fa9f31e70ca3f44dda311147b66da[m
+Author: yangshuai <286319700@qq.com>
+Date:   Sat Dec 21 16:03:45 2019 +0800
+
+    主页模块-导航守卫
+
+[33mcommit be29f640d62b9db6236ee5dd570065b79097a9d6[m
+Author: yangshuai <286319700@qq.com>
+Date:   Fri Dec 20 19:29:25 2019 +0800
+
+    -主页模块-默认导航
+
+[33mcommit 0f182fb2f297967f4d97313baea6c72a3cbb4207[m
+Author: yangshuai <286319700@qq.com>
+Date:   Fri Dec 20 19:13:38 2019 +0800
+
+    主页模块-左侧导航配置路由
+
+[33mcommit 00290beea0e11b9d190ba4dc22eec7a252aa727d[m
+Author: yangshuai <286319700@qq.com>
+Date:   Fri Dec 20 19:04:00 2019 +0800
+
+    主页模块-头部退出系统
+
+[33mcommit edcc1b959fa4d5995cffe9edb345b6c384b8c940[m
+Author: yangshuai <286319700@qq.com>
+Date:   Fri Dec 20 18:48:51 2019 +0800
+
+    主页模块-头部信息查询
+
+[33mcommit 737cad3c316d2bdabfbb2214bd91c4818fb02ef6[m
+Author: yangshuai <286319700@qq.com>
+Date:   Fri Dec 20 18:23:17 2019 +0800
+
+    统一全局注册插件的使用方式Vue.use
+
+[33mcommit 997c1acf93d58278fa6c6c9d85bb475a9f24c259[m
+Author: yangshuai <286319700@qq.com>
+Date:   Fri Dec 20 18:05:03 2019 +0800
+
+    左侧栏跟头部区域
+
+[33mcommit a102016b0a9b51ccb4117dfdab6009a124c80b50[m
+Author: yangshuai <286319700@qq.com>
+Date:   Thu Dec 19 21:06:18 2019 +0800
+
+    黑马头条PC-登录模块-安装axios-配置全局使用
+
+[33mcommit d9ae6b555ae4eba405701a8fb788312fc790de53[m
+Author: yangshuai <286319700@qq.com>
+Date:   Thu Dec 19 19:48:00 2019 +0800
+
+    黑马头条PC-登录模块-数据绑定及校验
+
+[33mcommit cbc0d60f55c5e02262f4ddf7f3562279ca1183b6[m
+Author: yangshuai <286319700@qq.com>
+Date:   Thu Dec 19 16:39:31 2019 +0800
+
+    登录模块-页面布局及样式
+
+[33mcommit b4d5ac732d1ef1ec4297feb9debf3a780fc647b5[m
+Author: yangshuai <286319700@qq.com>
+Date:   Wed Dec 18 23:20:52 2019 +0800
+
+    页面分析-新建登录和主页
+
+[33mcommit 513848585ed2ef3a056c895805c8cd0798f1c2ce[m
+Author: yangshuai <286319700@qq.com>
+Date:   Wed Dec 18 23:06:18 2019 +0800
+
+    初始化项目-整理目录-准备资源
+
+[33mcommit d34b4085d706474e0ac0b0c5e284aba3c3ec0c51[m
+Author: yangshuai <286319700@qq.com>
+Date:   Wed Dec 18 19:13:50 2019 +0800
+
+    初始化项目-安装ElementUI
+
+[33mcommit 2c2a33bf0e523371ea432935b7cd1b26d415ea94[m
+Author: yangshuai <286319700@qq.com>
+Date:   Wed Dec 18 18:35:46 2019 +0800
+
+    init
